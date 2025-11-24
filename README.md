@@ -41,8 +41,6 @@ Official case study document including scenario, business context, data dictiona
 
 ### **5. Telecom_Solution_Guide.pdf**
 
-A fully written, human-sounding solution guide with structured explanations for every Basic, Medium, and Advanced question.
-
 ### **6. Telecommunications ChurnQuest DataSet.xlsx**
 
 Raw dataset used for all analyses.
